@@ -7,7 +7,7 @@ End-to-end BI portfolio project built with Excel → SQL → Power BI.
 
 ## Data
 - Main dataset (Kaggle): https://www.kaggle.com/datasets/ayeshaseherr/bmw-dataset
-- Processed CSVs generated with SQL (included in `/data/processed`)
+- Processed CSVs generated with SQL (included in `/data`)
 
 ## KPIs / Questions answered
 - Revenue by region (Q1)
