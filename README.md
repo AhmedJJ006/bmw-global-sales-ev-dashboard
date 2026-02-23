@@ -3,7 +3,7 @@
 End-to-end BI portfolio project built with Excel → SQL → Power BI.
 
 ## Dashboard
-![Dashboard preview](assets/dashboard-screenshot.jpg)
+![Dashboard preview](assets/DASHBOARD BMW.png)
 
 ## Data
 - Main dataset (Kaggle): https://www.kaggle.com/datasets/ayeshaseherr/bmw-dataset
